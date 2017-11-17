@@ -14,4 +14,4 @@
     
     - TR单（GSC和LVP各一份pdf示例）
     
-    - start up单（GSC和LVP各一份pdf示例）
+    - start up单（只有LVP一份pdf示例）
