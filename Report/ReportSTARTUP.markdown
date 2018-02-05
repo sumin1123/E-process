@@ -1,4 +1,4 @@
-## TR单报告需求
+## START UP单报告需求
 
 ### 权限
 * 所有人都可以下载报告
@@ -19,18 +19,15 @@ Creation date创建日期|2018-01-27
 Loc Ref (Ref after localization)国产化零件号|51406008AAL
 Description描述|04-048 H17-01 Minitop part
 Class等级|C
-TR样品数量|100
+Project项目|04-048 H17-01 Minitop part
 Vendor code供应商代码|652755
 Supplier供应商|宝马弹簧（上海）有限公司
-Sil Batch Order小批订单号|4500345876
-Project项目|04-048 H17-01 Minitop part
 Plant工厂|SSAM
-Priority优先级|1
 Product产品型号|NT
-TR Start time试生产开始时间|2018-01-01
-TR Close time试生产结束时间|2018-01-31
-TA decisionTA 最终结论|yes
-TR resultTR 最终结论|yes 
+Sil Batch Order小批订单号|4500345876
+Priority优先级|1
+Date of BOM switch切换BOM日期|2018-2-25
+Sample result最终结论|yes 
 
 
 
