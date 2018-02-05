@@ -17,12 +17,12 @@
 Request No.申请单号|STR_S1B47752L_04-048 H15-01 NT robustness_00001
 Creation date创建日期|2018-01-27
 Loc Ref (Ref after localization)国产化零件号|51406008AAL
-Description零件描述|04-048 H17-01 Minitop part
+Description描述|04-048 H17-01 Minitop part
 Class等级|C
 TR样品数量|100
 Vendor code供应商代码|652755
 Supplier供应商|宝马弹簧（上海）有限公司
-SAP order No.SAP 订单号|4500345876
+Sil Batch Order小批订单号|4500345876
 Project项目|04-048 H17-01 Minitop part
 Plant工厂|SSAM
 Priority优先级|1
